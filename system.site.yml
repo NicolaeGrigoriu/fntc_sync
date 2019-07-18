@@ -1,0 +1,14 @@
+uuid: 86b4179c-d16a-4d4d-8cbe-0bdded13d808
+name: 'Federația Națională de Taekwon-do Contemporan din Republica Moldova'
+mail: itf.moldova@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

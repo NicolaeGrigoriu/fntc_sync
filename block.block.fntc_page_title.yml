@@ -1,0 +1,20 @@
+uuid: 184ef764-5269-4330-ad79-96a64ce2f74d
+langcode: en
+status: true
+dependencies:
+  theme:
+    - fntc
+_core:
+  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
+id: fntc_page_title
+theme: fntc
+region: content
+weight: -50
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

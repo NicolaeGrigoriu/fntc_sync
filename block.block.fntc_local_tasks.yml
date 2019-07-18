@@ -1,0 +1,22 @@
+uuid: 9637b469-d9c0-40be-8ae7-5a08a28265b5
+langcode: en
+status: true
+dependencies:
+  theme:
+    - fntc
+_core:
+  default_config_hash: X9I1OB0W3WlWtrK-CNcg6hNWwa8wficanpH8pYnDZDE
+id: fntc_local_tasks
+theme: fntc
+region: content
+weight: -40
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: true
+visibility: {  }

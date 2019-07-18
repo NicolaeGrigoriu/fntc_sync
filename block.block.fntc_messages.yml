@@ -1,0 +1,22 @@
+uuid: 67d5e6e3-53ba-4ff6-83a0-4ff21e36844d
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - fntc
+_core:
+  default_config_hash: KHQIJ7Vfl25lTjzIc7qIvnuistt-Mw2O0kG4jCofmkI
+id: fntc_messages
+theme: fntc
+region: highlighted
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }
